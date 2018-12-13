@@ -1,4 +1,4 @@
-Kryptoflow
+## Kryptoflow
 ==========
 
 [![Join the chat at https://gitter.im/kryptoflow-repo/Lobby](https://badges.gitter.im/kryptoflow-repo/Lobby.svg)](https://gitter.im/kryptoflow-repo/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
@@ -9,7 +9,7 @@ Algorithmic crypto trading framework with Kafka and TensorFlow ([Keras](https://
 
 Documentation live at: https://carlomazzaferro.github.io/kryptoflow/index.html
 
-Description
+## Description
 ===========
 
 Implemented so far:
